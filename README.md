@@ -8,5 +8,6 @@ The purpose of that project is to create a simple finance tracker for personal u
 ## Tomorrow todo
 - [ ] Finish starting screen
 - [ ] Write pros and cons of using xml
----
+- [ ] Maybe get deeper into Gradle
+- 
 ### Deadline for basic functionality is one week
