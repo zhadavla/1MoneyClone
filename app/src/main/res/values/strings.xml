@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">money</string>
+    <string name="Statistic">Statistic</string>
+    <string name="Transactions">Transactions</string>
+    <string name="Categories">Categories</string>
+    <string name="Savings">Savings</string>
+</resources>
